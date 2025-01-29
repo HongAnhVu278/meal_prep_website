@@ -1,7 +1,7 @@
 # 🍽️ Meal Prep Webpage
 
 ## **Overview**
- Developed collaboratively with **two other peers**, the **Meal Prep Webpage** is a  web platform that allows users to **discover recipes based on available ingredients**/
+ Developed collaboratively with **two other peers**, the **Meal Prep Webpage** is a  web platform that allows users to **discover recipes based on available ingredients**
 🔗 **Live Demo:** [Meal Prep Webpage](http://www.cs.gettysburg.edu/~vuan01/proj_updated/landing_page.php)
 - **Username:** `boyech01`
 - **Password:** `boyech01`
